@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WinUI3_SwapChainPanel_WebView2 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3_SwapChainPanel_WebView2 (Unpackaged)": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
